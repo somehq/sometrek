@@ -14,7 +14,7 @@ Say goodbye to overspending. Track expenses effortlessly with sometrek.
 
 ## Development
 
-To run this project locally, you need to have [Node.js v18.0+](https://nodejs.org/en/) and [pnpm](https://pnpm.io/) installed.
+To run this project locally, you need to have [Node.js](https://nodejs.org/en/) and [pnpm](https://pnpm.io/) installed.
 
 Run the following command to clone the repo:
 
