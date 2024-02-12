@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: 0 0% 100%;
+  --primary-light: 0 0% 98%;
+  --primary-dark: 0 0% 96%;
+
+  --secondary: 0 0% 45.1%;
+  --secondary-light: 0 0% 63.9%;
+  --secondary-dark: 0 0% 9%;
+
+  --muted: 220 14.3% 95.9%;
+  --muted-light: 0 0% 96%;
+  --muted-dark: 0 0% 83.1%;
+
+  --accent: 0 84% 60%;
+  --accent-light: 0 91% 71%;
+  --accent-dark: 0 72% 51%;
+  --accent-contrast: 0 0% 100%;
+}
+
